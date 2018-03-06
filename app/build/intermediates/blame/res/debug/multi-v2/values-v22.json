@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\DeskClock1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\win7\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6f2231b65d2f833ae833d9587222ee2e\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "672,747,834,1170",
+                        "endLines": "9,10,15,20",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "742,829,1165,1513"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\DeskClock1\\app\\src\\main\\res\\values-v22\\drawable.xml",
+                    "from": {
+                        "startLines": "26,25,23,19,20,22,21",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1269,1185,1087,739,824,994,909",
+                        "endColumns": "87,83,96,84,84,92,84",
+                        "endOffsets": "1352,1264,1179,819,904,1082,989"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,227,324,409,494,587",
+                        "endColumns": "87,83,96,84,84,92,84",
+                        "endOffsets": "138,222,319,404,489,582,667"
+                    }
+                }
+            ]
+        }
+    ]
+}

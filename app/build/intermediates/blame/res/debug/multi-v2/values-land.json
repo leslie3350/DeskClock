@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\DeskClock1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\win7\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6f2231b65d2f833ae833d9587222ee2e\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\DeskClock1\\app\\src\\main\\res\\values-land\\fractions.xml",
+                    "from": {
+                        "startLines": "21,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "945,783",
+                        "endColumns": "63,64",
+                        "endOffsets": "1004,843"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "698,762",
+                        "endColumns": "63,64",
+                        "endOffsets": "757,822"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\win7\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a898fe8e208adaa40c70d38f10fecb57\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "827",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1004"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\DeskClock1\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "26,27,30,29,20,22,23",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "998,1049,1148,1100,791,840,897",
+                        "endColumns": "50,49,56,47,47,56,58",
+                        "endOffsets": "1044,1094,1200,1143,834,892,951"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "328,379,429,486,534,582,639",
+                        "endColumns": "50,49,56,47,47,56,58",
+                        "endOffsets": "374,424,481,529,577,634,693"
+                    }
+                }
+            ]
+        }
+    ]
+}

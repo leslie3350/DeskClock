@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\DeskClock1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace\\DeskClock1\\app\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "687,732,784,831",
+                        "endColumns": "44,51,46,58",
+                        "endOffsets": "727,779,826,885"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,152,199",
+                        "endColumns": "44,51,46,58",
+                        "endOffsets": "95,147,194,253"
+                    }
+                }
+            ]
+        }
+    ]
+}
